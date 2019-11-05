@@ -1,1 +1,2 @@
 # BelajarJS
+mantap ya
